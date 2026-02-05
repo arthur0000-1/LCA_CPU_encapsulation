@@ -3,7 +3,7 @@ Arthur REMOVILLE - EPFL Master Thesis
 
 ## Model
 
-PYthon used for the modelisation of CPU Bill of Materials.
+Jupyther notebook in python used for the modelisation of CPU Bill of Materials.
 
 ## Life Cycle Inventory 
 
